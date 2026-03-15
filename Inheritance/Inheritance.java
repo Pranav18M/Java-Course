@@ -1,4 +1,4 @@
-package ClassObject;
+package Inheritance;
 
 
 class dad{
